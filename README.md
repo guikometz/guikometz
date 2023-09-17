@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmation
 - 🌱 I’m currently learning HTML and php
 - 💞️ I’m looking to collaborate on friends
-- 📫 How to reach me guikometz@gmail.com
+- 📫 How to reach me guilherme.w.kometz@gmail.com
 
 <!---
 guikometz/guikometz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
